@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Message</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="enter_another_phone_number">Enter another phone number</string>
+    <string name="enter_a_message">Enter a message</string>
+    <string name="button">Button</string>
+    <string name="send">Send</string>
+</resources>
